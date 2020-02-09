@@ -1,16 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Victor Nick Sandu
+description: Athlete
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Nick Sandu
+user_description: Nick is a 18-year-old student with a keen interest in computer science. He is also passionate about triathlon and has competed in various races which lead him to qualify for the ITU Multisport World Championships. He has represented Canada and competed in Pontevedra, Spain.
+user_title: Student Athlete
+email: nicholasvictorsandu@gmail.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  nsandu
 gplus_username:  lorem_ipsum
 
 # Google-analytics
